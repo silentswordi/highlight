@@ -1,0 +1,10 @@
+{
+  "name": "نکته‌نگار — استخراج متن‌های هایلایت‌شده",
+  "description": "عکسبرداری یا بارگذاری تصویر صفحات کتاب و جزوه، تشخیص هوشمند بخش‌های هایلایت‌شده و تبدیل به فایل متنی آماده ذخیره و اشتراک‌گذاری.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

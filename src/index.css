@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: "Vazirmatn", system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    background-color: #faf9f6;
+    color: #18181b;
+    font-feature-settings: "ss01";
+  }
+
+  .font-mono-txt {
+    font-family: "Vazirmatn", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
